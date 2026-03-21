@@ -53,7 +53,7 @@ import urllib.error
 # ★ INSERT YOUR OPENROUTER API KEY HERE
 # ─────────────────────────────────────────────────────────────────────────────
 
-API_KEY = "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"
+API_KEY = "enter your api key"
 
 
 # ─────────────────────────────────────────────────────────────────────────────
